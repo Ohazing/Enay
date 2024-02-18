@@ -13,8 +13,8 @@ body{
     background-color: black;
 }
 .greetings{
-    font-size: 1.2rem;
-    font-weight: 500;
+    font-size: 2.3rem;
+    font-weight: 900;
 }
 .greetings > span{
     animation: glow 2.5s ease-in-out infinite;
