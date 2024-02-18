@@ -127,6 +127,12 @@ body{
         text-align: center;
     }
     .description{
-        font-size: 1rem;
+        font-size: 1.4rem;
+        margin-bottom: 20px;
+    }
+    .button{
+        font-size: 15px;
+        padding: 12px;
+        width: 150px;
     }
 }
